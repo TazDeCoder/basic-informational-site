@@ -2,10 +2,10 @@
 
 ## Description
 
-Solution to the Odin Project exercise called 'Basic Informational Site'
+An Express application based on the Odin Project exercise - **'Basic Informational Site'**
 
 ## What I've Learnt
 
-- Express backend framework
-- Reading/Sending files
-- Routing
+- Setting up an Express application
+- Requesting/Sending resources
+- Basic routing navigation
