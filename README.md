@@ -6,6 +6,5 @@ An Express application based on the Odin Project exercise - **'Basic Information
 
 ## What I've Learnt
 
-- Setting up an Express application
-- Requesting/Sending resources
+- Requesting/Sending resources (file system)
 - Basic routing navigation
